@@ -27,6 +27,39 @@ Scikit-learn
 
 Pickle 
 
+
+# Installation 
+
+Clone the repository: 
+
+	git clone https://github.com/Alexandra29/College-Retention.git 
+
+ Navigate to the project directory: 
+
+	cd College-Retention 
+
+Create a virtual environment: 
+
+	Python -m venv venv 
+
+### Activate the virtual environment 
+
+	Venv\Scripts\activate (on Windows) 
+
+### Install the required packages 
+
+	pip install –r requirements.txt 
+
+### Running the Application 
+
+python app.py 
+
+Open a web browser and navigate to http://127.0.0.1:5000/ to access the application. 
+
+Enter the required information in the form and click "Predict" to get the prediction for college student retention. 
+
+The prediction will be displayed on the same page. 
+
  
 
 # Built With 
