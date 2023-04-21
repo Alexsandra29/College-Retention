@@ -1,17 +1,17 @@
 # College-Student-Retention-Prediction
-#College Student Retention Prediction Web Application 
+# College Student Retention Prediction Web Application 
 
  
 
 This project aims to develop a web application that predicts college student retention based on various input features.   
 
-Getting Started 
+# Getting Started 
 
- 
+ These instructions will guide you in setting up the project
 
   
 
-Prerequisites 
+# Prerequisites 
 
 Python 3.9.7 
 
@@ -29,7 +29,7 @@ Pickle
 
  
 
-Built With 
+# Built With 
 
 Flask - A micro web framework for Python 
 
@@ -43,19 +43,19 @@ Scikit-learn - A machine learning library for Python
 
  
 
-Authors 
+# Authors 
 
 Sandra Alex - Initial work - Alexandra29 
 
  
 
-License 
+# License 
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
 
  
 
-Acknowledgements 
+# Acknowledgements 
 
 Flask Documentation 
 
